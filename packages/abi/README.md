@@ -1,7 +1,7 @@
 Ethereum ABI Coder
 ==================
 
-This sub-module is part of the [ethers project](https://github.com/ethers-io/ethers.js).
+This sub-module is part of the [ethers project](https://github.com/lev-x/ethers.js).
 
 It is responsible for encoding and decoding the Application Binary Interface (ABI)
 used by most smart contracts to interoperate between other smart contracts and clients.

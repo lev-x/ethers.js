@@ -1,7 +1,7 @@
 Logger
 ======
 
-This sub-module is part of the [ethers project](https://github.com/ethers-io/ethers.js).
+This sub-module is part of the [ethers project](https://github.com/lev-x/ethers.js).
 
 It is responsible for managing logging and errors to maintain a standard
 structure.

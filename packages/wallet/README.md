@@ -1,7 +1,7 @@
 Ethereum Wallet
 ===============
 
-This sub-module is part of the [ethers project](https://github.com/ethers-io/ethers.js).
+This sub-module is part of the [ethers project](https://github.com/lev-x/ethers.js).
 
 It contains the class to manage a private key and signing for a standard
 externally-owned account.

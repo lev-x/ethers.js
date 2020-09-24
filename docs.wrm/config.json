@@ -10,6 +10,6 @@
       "path": "../packages/",
       "include": "packages/.*/src.ts/",
       "exclude": "/node_modules/|src.ts/.*browser.*",
-      "link": "https://github.com/ethers-io/ethers.js/blob/ethers-v5-beta/packages$FILENAME#L$LINE"
+      "link": "https://github.com/lev-x/ethers.js/blob/ethers-v5-beta/packages$FILENAME#L$LINE"
   }
 }

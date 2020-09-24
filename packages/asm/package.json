@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ethers-io/ethers.js.git"
+    "url": "git://github.com/lev-x/ethers.js.git"
   },
   "scripts": {
     "generate": "node ./generate.js",

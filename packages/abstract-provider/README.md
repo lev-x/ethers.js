@@ -1,7 +1,7 @@
 Abstract Provider
 =================
 
-This sub-module is part of the [ethers project](https://github.com/ethers-io/ethers.js).
+This sub-module is part of the [ethers project](https://github.com/lev-x/ethers.js).
 
 It is responsible for defining the common interface for a Provider, which in
 ethers differs quite substantially from Web3.js.

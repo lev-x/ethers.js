@@ -1,7 +1,7 @@
 Property Utilities
 ==================
 
-This sub-module is part of the [ethers project](https://github.com/ethers-io/ethers.js).
+This sub-module is part of the [ethers project](https://github.com/lev-x/ethers.js).
 
 It contains several useful utility methods for managing simple objects with
 defined properties.

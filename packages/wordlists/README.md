@@ -1,7 +1,7 @@
 BIP39 Wordlists
 ===============
 
-This sub-module is part of the [ethers project](https://github.com/ethers-io/ethers.js).
+This sub-module is part of the [ethers project](https://github.com/lev-x/ethers.js).
 
 Supported Languages:
 

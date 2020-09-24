@@ -1,7 +1,7 @@
 Ethereum Unit Conversion Utilities
 ==================================
 
-This sub-module is part of the [ethers project](https://github.com/ethers-io/ethers.js).
+This sub-module is part of the [ethers project](https://github.com/lev-x/ethers.js).
 
 It contains functions to convert between string representations and numeric
 representations of numbers, including those out of the range of JavaScript.

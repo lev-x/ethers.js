@@ -72,7 +72,7 @@ contract.deploy({
    gasPrice: "30000000000000"
 }), function(error, transactionHash){ ... })
 .then(function(newContract){
-    console.log('new contract', newContract.options.address) 
+    console.log('new contract', newContract.options.address)
 });
 
 <span class="comment">// ethers
@@ -110,7 +110,7 @@ const tx = await contract.changeValue(33);
 
 <p>In ethers, the syntax to call an overloaded contract function is different from the non-overloaded function. This section shows the differences between web3 and ethers when calling overloaded functions.</p>
 
-<p>See <a href="https://github.com/ethers-io/ethers.js/issues/407">issue #407</a> for more details.</p>
+<p>See <a href="https://github.com/lev-x/ethers.js/issues/407">issue #407</a> for more details.</p>
 
 <div class="code"><span class="comment">// web3
 </span>message = await contract.methods.getMessage('nice').call();

@@ -54,7 +54,7 @@ function getDefinitions(source) {
 
 const getSourceUrl = (function(path, include, exclude) {
     console.log("Scanning TypeScript Sources...");
-    const Link = "https://github.com/ethers-io/ethers.js/blob/master/packages$FILENAME#L$LINE";
+    const Link = "https://github.com/lev-x/ethers.js/blob/master/packages$FILENAME#L$LINE";
     const Root = resolve(__dirname, path);
 
     const readdir = function(path) {
@@ -206,10 +206,10 @@ module.exports = {
       "link-legacy-docs3": "https:/\/docs.ethers.io/v3/",
       "link-legacy-docs4": "https:/\/docs.ethers.io/v4/",
 
-      "link-github-ci": "https:/\/github.com/ethers-io/ethers.js/actions/runs/158006903",
-      "link-github-issues": "https:/\/github.com/ethers-io/ethers.js/issues",
+      "link-github-ci": "https:/\/github.com/lev-x/ethers.js/actions/runs/158006903",
+      "link-github-issues": "https:/\/github.com/lev-x/ethers.js/issues",
 
-      "link-issue-407": "https:/\/github.com/ethers-io/ethers.js/issues/407",
+      "link-issue-407": "https:/\/github.com/lev-x/ethers.js/issues/407",
 
       "link-infura-secret": "https:/\/infura.io/docs/gettingStarted/authentication",
 
@@ -231,7 +231,7 @@ module.exports = {
       "link-ethers-docs": "https:/\/docs.ethers.io/",
       "link-ethers-js": "https:/\/cdn.ethers.io/lib/ethers-5.0.esm.min.js",
       "link-ethers-npm": "https:/\/www.npmjs.com/search?q=%40ethersproject%2F",
-      "link-ethers-asm-grammar": "https:/\/github.com/ethers-io/ethers.js/blob/master/packages/asm/grammar.jison",
+      "link-ethers-asm-grammar": "https:/\/github.com/lev-x/ethers.js/blob/master/packages/asm/grammar.jison",
 
       "link-eip-155": { name: "EIP-155", url: "https:/\/eips.ethereum.org/EIPS/eip-155" },
       "link-eip-191": { name: "EIP-191", url: "https:/\/eips.ethereum.org/EIPS/eip-191" },

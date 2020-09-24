@@ -12,7 +12,7 @@ Building
 
 ```
 # Clone the repository
-/home/ricmoo> git clone git@github.com:ethers-io/ethers.js.git
+/home/ricmoo> git clone git@github.com:lev-x/ethers.js.git
 /home/ricmoo> cd ethers.js
 
 # Install the base dependencies

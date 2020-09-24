@@ -107,7 +107,7 @@ async function fetchGitHub(user, password, url, cacheOnly) {
 async function _getIssues(user, password) {
     const cacheOnly = (user == null);
 
-    let issues = await fetchGitHub(user, password, "https:/\/api.github.com/repos/ethers-io/ethers.js/issues?state=all&per_page=100", cacheOnly)
+    let issues = await fetchGitHub(user, password, "https:/\/api.github.com/repos/lev-x/ethers.js/issues?state=all&per_page=100", cacheOnly)
     if (!cacheOnly) { console.log(`Found ${ issues.length } issues`); }
     const result = [ ];
     for (let i = 0; i < issues.length; i++) {
@@ -144,7 +144,7 @@ async function createRelease(user, password, tagName, title, body, prerelease, c
     };
 
     const result = await fetchJson({
-        url: "https://api.github.com/repos/ethers-io/ethers.js/releases",
+        url: "https://api.github.com/repos/lev-x/ethers.js/releases",
         user: user,
         password: password,
         headers: headers

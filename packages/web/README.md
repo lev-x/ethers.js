@@ -1,7 +1,7 @@
 Web Utilities
 =============
 
-This sub-module is part of the [ethers project](https://github.com/ethers-io/ethers.js).
+This sub-module is part of the [ethers project](https://github.com/lev-x/ethers.js).
 
 It contains functions to abstract safely and responsibly connecting to the web,
 including exponential back-off.

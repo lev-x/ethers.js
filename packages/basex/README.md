@@ -1,7 +1,7 @@
 Base-X
 ======
 
-This sub-module is part of the [ethers project](https://github.com/ethers-io/ethers.js).
+This sub-module is part of the [ethers project](https://github.com/lev-x/ethers.js).
 
 It is responsible for encoding and decoding vinary data in arbitrary bases, but
 is primarily for Base58 encoding which is used for various blockchain data.

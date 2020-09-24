@@ -1,7 +1,7 @@
 Mocha Test Suite for Ethers
 ===========================
 
-This sub-module is part of the [ethers project](https://github.com/ethers-io/ethers.js).
+This sub-module is part of the [ethers project](https://github.com/lev-x/ethers.js).
 
 It contains the tests to verify ethers is working correctly.
 

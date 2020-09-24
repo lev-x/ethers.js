@@ -1,7 +1,7 @@
 Abstract Signer
 ===============
 
-This sub-module is part of the [ethers project](https://github.com/ethers-io/ethers.js).
+This sub-module is part of the [ethers project](https://github.com/lev-x/ethers.js).
 
 It is an abstraction of an Ethereum account, which may be backed by a [private key](https://www.npmjs.com/package/@ethersproject/wallet),
 signing service (such as Geth or Parity with key managment enabled, or a

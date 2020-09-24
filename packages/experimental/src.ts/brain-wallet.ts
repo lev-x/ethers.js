@@ -55,7 +55,7 @@ export class BrainWallet extends ethers.Wallet {
 
 /*
 // Test Legacy correctly matches our old test-vector:
-// See: https://github.com/ethers-io/ethers.js/blob/3bf39b3bee0834566243211783ed8ec052c2f950/tests/test-wallet.js#L13
+// See: https://github.com/lev-x/ethers.js/blob/3bf39b3bee0834566243211783ed8ec052c2f950/tests/test-wallet.js#L13
 BrainWallet.generateLegacy("ricmoo", "password").then((wallet) => {
     console.log("Expected:", "0xbed9d2E41BdD066f702C4bDB86eB3A3740101acC");
     console.log(wallet);
